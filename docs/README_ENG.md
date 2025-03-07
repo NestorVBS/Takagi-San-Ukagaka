@@ -44,7 +44,7 @@ Follow these steps to install the character on your PC:
 
 7. ✅ **Switch characters**:  
    - Right-click on the character.  
-   - Go to **“Change Ghost”** and select **“Takagi-San”**.  
+   - Go to **“Change Ghost”** and select **“Takagi-San(ENG)”**.  
 
 ---
 
