@@ -40,7 +40,7 @@ Sigue estos pasos para instalar el personaje en tu PC:
    - Da **clic derecho** sobre el personaje.
    - Ve a **“Language”** y elige **“English”**.
 
-6. 🖱️ **Arrastra** el archivo `tkg_takagi_san.nar` sobre el personaje.
+6. 🖱️ **Arrastra** el archivo `tkg_takagi_san.nar` y sueltalo sobre el personaje.
 
 7. ✅ **Cambiar personaje**:
    - Da clic derecho en el personaje de la chica.
