@@ -29,13 +29,20 @@ Takagi-San puede:
 Sigue estos pasos para instalar el personaje en tu PC:
 
 1. 📥 **Descarga** el archivo `tkg_takagi_san.nar` que está en este repositorio.
+
 2. 🔗 **Descarga e instala** el programa **SSP** desde su [página oficial](http://ssp.shillest.net/).
+![download button](https://ssp.shillest.net/image/download_full.png)
+
 3. ▶️ **Ejecuta** `ssp.exe` después de instalar SSP.
+
 4. 👧 Aparecerá un personaje (Ghost) que habla solo en japonés. *No te preocupes por esto.*
+
 5. ⚙️ **Cambia el idioma:**
    - Da **clic derecho** sobre el personaje.
    - Ve a **“Language”** y elige **“English”**.
+   
 6. 🖱️ **Arrastra** el archivo `tkg_takagi_san.nar` sobre el personaje.
+
 7. ✅ **Cambiar personaje**:
    - Da clic derecho en el personaje de la chica.
    - Ve a **“Change Ghost”** y selecciona **“Takagi-San”**.
