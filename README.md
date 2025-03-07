@@ -4,15 +4,13 @@
 
 Takagi-San Ukagaka está basada en el personaje del mismo nombre de la obra *Karakai Jouzu No Takagi-San* del autor **Soichirou Yamamoto**.
 
----
-
 ## 📌 **Partes**
-1. [Características](#caracteristicas)
-2. [Guía de Instalación](#guia-de-instalacion)
+1. Características
+2. Guía de Instalación
 
 ---
 
-## 🎮 **Características** {#caracteristicas}
+## 🎮 **Características**
 Takagi-San puede:
 
 - ✌ Jugar **Piedra, Papel o Tijeras**.
@@ -24,7 +22,7 @@ Takagi-San puede:
 
 ---
 
-## 📌 **Guía de Instalación** {#guia-de-instalacion}
+## 📌 **Guía de Instalación**
 
 Sigue estos pasos para instalar el personaje en tu PC:
 
