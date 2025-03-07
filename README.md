@@ -1,11 +1,6 @@
-# Takagi-San Ukagaka  
-
-Takagi-San Ukagaka está basado en el personaje del mismo nombre del anime/manga *Karakai Jouzu no Takagi-San* de Soichirou Yamamoto.  
-
-🌎🇬🇧 [Read in English](docs/README_ENG.md)  
-
-
 # Takagi-San Ukagaka/Ghost
+
+🌎ENG [Read in English](docs/README_ENG.md)  
 
 ## 📖 **Leer con Atención**
 
