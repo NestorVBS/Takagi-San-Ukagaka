@@ -34,7 +34,7 @@ Sigue estos pasos para instalar el personaje en tu PC:
 
 ![download button](https://ssp.shillest.net/image/download_full.png)
 
-3. ▶️ **Ejecuta** `ssp.exe` después de instalar SSP.
+3. ▶️ **Ejecuta** `ssp.exe`.
 
 4. 👧 Aparecerá un personaje (Ghost) que habla solo en japonés. *No te preocupes por esto.*
 
