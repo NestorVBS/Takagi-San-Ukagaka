@@ -48,6 +48,10 @@ Sigue estos pasos para instalar el personaje en tu PC:
    - Da clic derecho en el personaje de la chica.
    - Ve a **“Change Ghost”** y selecciona **“Takagi-San”**.
 
+8. **Siempre al frente**
+   - Para más comodidad da click derecho >> Options >> Preferences
+   - Busca Ghost(2) y ✅Marca Always Show Foreground
+
 ---
 
 📩 **Dudas o sugerencias**

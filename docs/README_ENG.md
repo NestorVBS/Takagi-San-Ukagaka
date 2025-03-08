@@ -46,6 +46,10 @@ Follow these steps to install the character on your PC:
    - Right-click on the character.  
    - Go to **“Change Ghost”** and select **“Takagi-San(ENG)”**.  
 
+8. **Always on Top**  
+- For more convenience, right-click >> Options >> Preferences  
+- Find Ghost(2) and ✅Check Always Show Foreground 
+
 ---
 
 📩 **Questions or Suggestions**  
