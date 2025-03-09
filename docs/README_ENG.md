@@ -40,7 +40,7 @@ Follow these steps to install the character on your PC:
    - **Right-click** on the character.  
    - Go to **“Language”** and select **“English”**.  
 
-6. 🖱️ **Drag and drop** the `tkg_takagi_san.nar_ENG` file onto the character.  
+6. 🖱️ **Drag and drop** the `tkg_takagi_san_ENG.nar` file onto the character.  
 
 7. ✅ **Switch characters**:  
    - Right-click on the character.  
